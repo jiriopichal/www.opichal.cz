@@ -1,9 +1,40 @@
 <html>
 <head>
-<meta charset="utf-8" />
-<title>{{ page.title }}</title>
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ page.root }}styles/main.css" type="text/css" media="screen, print" charset="utf-8">
+
+    <meta http-equiv="Content-language" content="cs">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <meta name="description" content="Kompletní návrhy a realizace vodovodních, topenářských, plynových a kanlizačních rozvodů">
+    <meta name="keywords" content="voda, vodo, vodoinstalace, topení, topenářství, topo, plyn, plynofikace, odpad, kanalizace, instalace, rozvody, Olomouc, Šternberk, Přerov, Prostějov, Hněvotín, Bohuňovice">
 </head>
 <body>
+<div id="root">
+    <div id="logo">
+        <span class="inst">INSTALATÉR</span>
+        <span class="vodo">VODA</span>
+        <span class="topo">TOPENÍ</span>
+        <span class="plyn">PLYN</span>
+    </div>
+    <div id="logo">
+        <div>
+        <a class="inst" href="{{ page.root }}kontakt">Jiří Opichal</a>
+        </div>
+        <div>
+        tel: 604 702 663
+        </div>
+        <div>
+        e-mail: <a class="inst" href="mailto:Jiří Opichal - VODA-TOPENÍ-PLYN &lt;opichal.jiri@centrum.cz&gt;">opichal.jiri@centrum.cz</a>
+        </div>
+    </div>
+
+    <p>
+    <div id="contact">
+        <img src="{{ page.root }}images/auto-celo.jpg" alt="auto opichal"/>
+    </div>
+    </p>
 {{ content }}
+</div>
 </body>
 </html>

@@ -1,0 +1,93 @@
+html {
+}
+body {
+    padding: 0;
+    margin: 0;
+}
+a img {
+    border: 0 none;
+    margin: 0;
+}
+form {
+    margin: 0;
+}
+span {
+    margin: 0;
+}
+div {
+    margin: 0;
+}
+p {
+    margin: 1em 0;
+}
+button {
+    outline: 0;
+}
+h1 {
+    font-size: 2em;
+}
+
+
+#root {
+    width: 940px;
+    min-height: 98%;
+    background-color: #ddd;
+    margin: 0px auto;
+}
+#logo {
+    border: 1px solid transparent;
+    font: 3em "Lucida Grande Bold", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 0.5ex;
+    margin: 0px auto;
+    text-align: center;
+}
+#contact {
+    margin: 0px auto;
+    margin-left: 22%;
+    width: 60%;
+    /*
+    text-align: center;
+    */
+}
+
+a {
+    padding-top: 0.2ex;
+    padding-left: 0.3ex;
+    padding-right: 0.3ex;
+}
+a,
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    background-color: #bbb;
+    -moz-border-radius: 0.2ex;
+    -webkit-border-radius: 0.2ex;
+}
+.vodo,
+.vodo a,
+.vodo a:visited {
+    color: #0641ae;
+}
+.topo,
+.topo a,
+.topo a:visited {
+    color: #ff1336;
+}
+.plyn,
+.plyn a,
+.plyn a:visited {
+    color: #f3a711;
+}
+.inst,
+.inst a,
+.inst a:visited {
+    color: black;
+}
+
+
+.footer {
+    text-align: right;
+}
