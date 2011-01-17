@@ -3,14 +3,11 @@ title: Jiří Opichal - Voda - Topení - Plyn
 layout: temp
 ---
 
-**Jiří Opichal**  
-Hněvotín 186  
-783 47 Hněvotín
+<div class="footer">
+    <p>&nbsp;</p>
+    <p>
+        Hněvotín 186, 783 47 Hněvotín, IČ: 66186714 <a href="http://wwwinfo.mfcr.cz/cgi-bin/ares/darv_rzp.cgi?ico=66186714&xml=2&jazyk=cz">[ARES]</a>, DIČ: CZ7104285353
+    </p>
+</div>
 
-Mobil: +420604702663  
-E-mail: [opichal.jiri@centrum.cz](mailto:opichal.jiri@centrum.cz)  
-E-mail: [jiri@opichal.cz](mailto:jiri@opichal.cz)  
-[http://www.jiri.opichal.cz](http://www.jiri.opichal.cz)
-
-IČ: 66186714  
-DIČ: CZ7104285353
+{% include trackpage.html %}
