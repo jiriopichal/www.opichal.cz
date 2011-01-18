@@ -8,8 +8,8 @@ Hněvotín 186
 783 47 Hněvotín
 
 Telefon: **604 702 663**  
-E-mail: [opichal.jiri@centrum.cz](mailto:Jiří%20Opichal%20-%20VODA-TOPENÍ-PLYN%20<opichal.jiri@centrum.cz>)  
-E-mail: [jiri@opichal.cz](mailto:Jiří%20Opichal%20-%20VODA-TOPENÍ-PLYN%20<jiri@opichal.cz>)  
+E-mail: [opichal.jiri@centrum.cz](mailto:Jiri%20Opichal%20-%20VODA-TOPENI-PLYN%20<opichal.jiri@centrum.cz>)  
+E-mail: [jiri@opichal.cz](mailto:Jiri%20Opichal%20-%20VODA-TOPENI-PLYN%20<jiri@opichal.cz>)  
 [http://www.opichal.cz](http://www.opichal.cz)
 
 IČ: 66186714 [ARES](http://wwwinfo.mfcr.cz/cgi-bin/ares/darv_rzp.cgi?ico=66186714&xml=2&jazyk=cz)  
