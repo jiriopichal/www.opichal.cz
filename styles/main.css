@@ -34,14 +34,20 @@ h1 {
     background-color: #ddd;
     margin: 0px auto;
 }
+#logo h1 {
+    display: inline;
+    font-size: 1.5em;
+    margin: 0;
+    padding: 0;
+}
 #logo {
     border: 1px solid transparent;
-    font: 3em "Lucida Grande Bold", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
-    font-weight: bold;
+    font: bold 3em "Lucida Grande Bold", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
     padding: 0.5ex;
     margin: 0px auto;
     text-align: center;
 }
+
 #contact {
     margin: 0px auto;
     margin-left: 22%;
