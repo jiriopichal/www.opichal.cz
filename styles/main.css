@@ -34,6 +34,15 @@ h1 {
     background-color: #ddd;
     margin: 0px auto;
 }
+.footer {
+    padding: 0.3em;
+}
+.huge {
+    font: bold 3em "Lucida Grande Bold", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+}
+.center {
+    text-align: center;
+}
 #logo h1 {
     display: inline;
     font-size: 1.5em;
@@ -42,19 +51,14 @@ h1 {
 }
 #logo {
     border: 1px solid transparent;
-    font: bold 3em "Lucida Grande Bold", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
     padding: 0.5ex;
     margin: 0px auto;
-    text-align: center;
 }
 
 #contact {
-    margin: 0px auto;
+    margin: 1.5em auto;
     margin-left: 22%;
     width: 60%;
-    /*
-    text-align: center;
-    */
 }
 
 a {
