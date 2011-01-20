@@ -14,5 +14,3 @@ E-mail: [jiri@opichal.cz](mailto:Jiri%20Opichal%20-%20VODA-TOPENI-PLYN%20<jiri@o
 
 IČ: 66186714 [ARES](http://wwwinfo.mfcr.cz/cgi-bin/ares/darv_rzp.cgi?ico=66186714&xml=2&jazyk=cz)  
 DIČ: CZ7104285353
-
-{% include trackpage.html %}
