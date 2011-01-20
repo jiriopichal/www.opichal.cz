@@ -5,7 +5,7 @@ layout: default
 
 **Jiří Opichal**  -  Voda - Topení - Plyn  
 Hněvotín 186  
-783 47 Hněvotín
+783 47 Hněvotín (okres Olomouc)
 
 Telefon: **604 702 663**  
 E-mail: [opichal.jiri@centrum.cz](mailto:Jiri%20Opichal%20-%20VODA-TOPENI-PLYN%20<opichal.jiri@centrum.cz>)  
